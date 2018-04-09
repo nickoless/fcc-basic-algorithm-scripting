@@ -3,6 +3,6 @@ function confirmEnding(str, target) {
   return (lastVal === target) ? true : false;
 }
 
-console.log(confirmEnding("Bastian", "tianx"));
+console.log(confirmEnding("Bastian", "tian"));
 
 // Don't use .endsWith()
